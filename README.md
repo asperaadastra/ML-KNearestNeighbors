@@ -1,6 +1,6 @@
 # K-Nearest Neighbors (KNN) Classifier
 
-A simple project using KNN on a dataset.
+This repository contains a simple project using KNN on a dataset.
 
 ## Steps
 
@@ -12,3 +12,10 @@ A simple project using KNN on a dataset.
 6. Apply Elbow Method.
 7. Select optimal k.
 8. Print confusion matrix and report.
+
+   
+## What's Inside
+
+- `data.csv`: Sample dataset in CSV format.
+- `knn_classifier.ipynb`: Jupyter notebook with the project code.
+- `LICENSE`: MIT License.
